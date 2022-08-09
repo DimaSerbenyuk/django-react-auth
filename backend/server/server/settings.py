@@ -70,7 +70,7 @@ DJOSER = {
 }
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
-SITE_NAME = "prometheusit"
+SITE_NAME = "helppeople.prometheusit.fun"
 
 PROTOCOL = "http"
 DOMAIN = "localhost:3000"
